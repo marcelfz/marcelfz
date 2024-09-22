@@ -2,6 +2,7 @@
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marceloferraz.ac/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-ferraz-a08ba4253/)
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelofz.dev@gmail.com)
 
 ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelfz&show_icons=true&theme=react)
 
