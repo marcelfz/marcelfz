@@ -1,16 +1,14 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Marcelo%20Ferraz&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=55&desc=Desenvolvedor%20·%20Ciência%20da%20Computação&descAlignY=80&descColor=8b949e&descSize=16)
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Marcelo%20Ferraz&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=40" alt="Header">
+</p>
 
 <div align="center">
 
 ```typescript
-const marcelo = {
+const Marcelo = {
   foco: "Desenvolvimento de Software",
-            stack: ["React", "Next.js", "TypeScript", "Laravel"],
-status: "Aberto a oportunidades "
+  stack: ["Laravel", "Next.js", "React", "TypeScript"],
+  status: "Aberto a oportunidades 🚀"
 }
 ```
 
@@ -18,75 +16,100 @@ status: "Aberto a oportunidades "
 
 <br>
 
-## ▍Tecnologias
+## ☕ Sobre mim
 
-<div align="center">
+Atualmente faço parte da **Adapti**, uma Empresa Júnior de desenvolvimento web, e também sou estagiário na **Prefeitura**, onde aplico no dia a dia a mesma stack: **Laravel, Next.js, React e TypeScript**.
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-</div>
+Estou expandindo meus estudos para além do desenvolvimento web, com foco em **Engenharia de Dados**, **Cloud Computing** e **Inteligência Artificial / Machine Learning**.
 
 <br>
 
-## ▍Competências
+## 🤖 Linguagens e Tecnologias
+
+<p align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,next,tailwind,laravel,php,mysql)](https://skillicons.dev)
+
+</p>
+
+<br>
+
+## 📚 Atualmente me aprofundando em
+
+<p align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,aws,tensorflow)](https://skillicons.dev)
+
+</p>
+
+<p align="center">
+  <sub>Engenharia de Dados · Cloud Computing · IA / Machine Learning</sub>
+</p>
+
+<br>
+
+## 🚀 Projetos em destaque
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/marcelfz">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Projeto React">
+    <td width="33.3%" align="center" valign="top">
+      <a href="https://github.com/SEU-USUARIO/pipeline-clima-elt">
+        <img src="https://img.shields.io/badge/ELT--Pipeline-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Pipeline de Dados Climáticos">
       </a>
       <br><br>
-      <b>Projeto React</b>
+      <b>Pipeline de Dados Climáticos</b>
       <br>
-      <sub>Aplicação front-end moderna com componentização e boas práticas.</sub>
+      <sub>Coleta dados diários da API Open-Meteo, orquestrado com Airflow, armazenado em PostgreSQL (camadas raw → analytics) e visualizado em dashboard Streamlit. Totalmente containerizado com Docker.</sub>
       <br><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/marcelfz">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Projeto Laravel">
+    <td width="33.3%" align="center" valign="top">
+      <a href="https://github.com/SEU-USUARIO/rdsmbn">
+        <img src="https://img.shields.io/badge/FullStack-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="RDSMBN">
       </a>
       <br><br>
-      <b>Projeto Laravel</b>
+      <b>RDSMBN</b>
       <br>
-      <sub>API RESTful com autenticação completa e integração com banco de dados.</sub>
+      <sub>Plataforma Full Stack para publicação e gerenciamento de notícias da Reserva de Desenvolvimento Sustentável de Barra Nova. Painel administrativo com autenticação, editor de texto rico e feed público responsivo.</sub>
       <br><br>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/REST-000000?style=flat-square&logoColor=white">
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a href="https://github.com/SEU-USUARIO/rodizio-lavagem">
+        <img src="https://img.shields.io/badge/Real--Time-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Rodízio de Lavagem">
+      </a>
+      <br><br>
+      <b>Rodízio de Lavagem do Prédio</b>
+      <br>
+      <sub>Aplicação em tempo real para organizar o rodízio de lavagem do prédio, com atualização instantânea via Firebase. A ideia surgiu após um período de falta de água na cidade.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
     </td>
   </tr>
 </table>
 
 <br>
 
-## ▍Contato
+## 📫 Vamos conversar?
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcelo-ferraz-a08ba4253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/marceloferraz.ac/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:marcelofz.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-ferraz-a08ba4253/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marceloferraz.ac/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelofz.dev@gmail.com)
-
-</div>
-
-<br>
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=footer)
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" alt="Footer">
+</p>
